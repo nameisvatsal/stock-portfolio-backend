@@ -36,7 +36,7 @@ Backend runs on: `http://localhost:8080`
 ```
 
 ## 🔗 Frontend Repo
-[Stock Portfolio Frontend](https://github.com/snameisvatsal/stock-portfolio-frontend)
+[Stock Portfolio Frontend](https://github.com/nameisvatsal/stock-portfolio-frontend)
 
 ## 📝 License
 Open-source project for educational purposes.
